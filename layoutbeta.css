@@ -358,13 +358,13 @@ p.min_padding {margin: 2px 0;}
 	vertical-align:middle;
 	color:#fff;
 	text-align:center;
-	background-color: #91d09f;
+	background-color: #79ba95;
 	border-width:1px 0;
 	padding:0 !important;
 	display: block;
 	position:relative;
 	right:-10157px;
-	margin:-4px 0 0 -210px !important
+	margin:-4px 0 0 -210px !important;
 }
 
 #userinfo_username li:first-child {
@@ -475,7 +475,8 @@ p.min_padding {margin: 2px 0;}
 	z-index:900
 }
 #userinfo_minor:before {
-	content:'';
+	content:'\f078 ';
+	font-family: FontAwesome;
 	text-align:center;
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
@@ -490,9 +491,7 @@ p.min_padding {margin: 2px 0;}
 	display:block;
 	position:relative;
 	right:-9999px;
-	background-color: #91d09f;
-  background-image:url('https://hosting.ivanozerov.com/haze/images/caret.png');
-	background-repeat:no-repeat,repeat
+	background-color: #85c59a;
 }
 #userinfo_minor:hover:before {
 	position:relative;
@@ -636,25 +635,18 @@ ul.potato-menu ul.potato-menu-group a {
 #nav_review > a {background-color: #85c59a;}
 #usr > a {background-color: #91d09f;}
 
-#nav_index a            {background-color: #0d5968!important;}
-#nav_torrents a               {background-color: #20717c!important;}
-#nav_collages a          {background-color: #1d818e!important;}
-#nav_requests a        {background-color: #3eaca7!important;}
-#nav_forums a             {background-color: #47bc97!important;}
-#nav_irc a            {background-color: #74c796!important;}
-#nav_top10 a             {background-color: #91d09f!important;}
 
-#nav_index a:hover       {background-color: #0b4a57!important;}
-#nav_torrents  a:hover          {background-color: #12545d!important;}
-#nav_collages  a:hover     {background-color: #195e64!important;}
-#nav_requests  a:hover   {background-color: #20686a!important;}
-#nav_forums  a:hover        {background-color: #277271!important;}
-#nav_irc  a:hover        {background-color: #2e7c78!important;}
-#nav_top10  a:hover       {background-color: #36877e!important;}
-#nav_rules a:hover {background-color: #3d9185!important;}
-#nav_wiki  a:hover {background-color: #449b8c!important;}
-#nav_staff a:hover {background-color: #4ba592!important;}
-#nav_review a:hover  {background-color: #52af99!important;}
+#nav_index a:hover       {background-color: #0b4a57 !important;}
+#nav_torrents  a:hover          {background-color: #12545d !important;}
+#nav_collages  a:hover     {background-color: #195e64 !important;}
+#nav_requests  a:hover   {background-color: #20686a !important;}
+#nav_forums  a:hover        {background-color: #277271 !important;}
+#nav_irc  a:hover        {background-color: #2e7c78 !important;}
+#nav_top10  a:hover       {background-color: #36877e !important;}
+#nav_rules a:hover {background-color: #3d9185 !important;}
+#nav_wiki  a:hover {background-color: #449b8c !important;}
+#nav_staff a:hover {background-color: #4ba592 !important;}
+#nav_review a:hover  {background-color: #52af99 !important;}
 
 /* Fix For "Points Store" menu */
 #nav_bonus a {padding-left: 31px !important;}
