@@ -1,3 +1,13 @@
+/*--------------------Temporary hacks--------------*/
+#userinfo_username:hover li a{
+    background-color: #4ba592 !important;
+}
+
+#userinfo_minor:hover li a{
+    background-color: #52af99 !important;
+}
+    
+
 /* --- Global --- */
 
 * {
