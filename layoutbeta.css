@@ -1,10 +1,14 @@
-/*--------------------Temporary hacks--------------*/
+/*--------------------Temporary(or are they?) hacks--------------*/
 #userinfo_username:hover li a{
     background-color: #4ba592 !important;
 }
 
 #userinfo_minor:hover li a{
     background-color: #52af99 !important;
+}
+
+#footer p br {
+    display: none;
 }
     
 
@@ -191,7 +195,7 @@ ul.thin li {
     margin-left: 140px;
     padding: 10px;
     text-align: center;
-    display:inline-flex;
+    display:inline;
 }
 
 .right  {text-align: right;}
