@@ -9,6 +9,6 @@ Style derived from Gazelle Postmod and BTN SMPTE
 *********************************************************/
 
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import url(https://cdn.rawgit.com/SummerRainbowz/Beluga-AHD/master/layoutbeta.css);
-@import url(https://cdn.rawgit.com/SummerRainbowz/Beluga-AHD/master/original.css);
+@import url(layoutbeta.css);
+@import url(original.css);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
