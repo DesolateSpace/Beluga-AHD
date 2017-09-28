@@ -88,10 +88,10 @@ input[type=submit]:focus, input[type=button]:focus, button:focus {
 }
 
 /* Fix for input placeholder font */
-::-webkit-input-placeholder {font-family: 'Source Sans Pro', Helvetica, sans-serif;}
-:-moz-placeholder           {font-family: 'Source Sans Pro', Helvetica, sans-serif;}
-::-moz-placeholder          {font-family: 'Source Sans Pro', Helvetica, sans-serif;}
-:-ms-input-placeholder      {font-family: 'Source Sans Pro', Helvetica, sans-serif;}
+::-webkit-input-placeholder {font-family: 'Open Sans', sans-serif;}
+:-moz-placeholder           {font-family: 'Open Sans', sans-serif;}
+::-moz-placeholder          {font-family: 'Open Sans', sans-serif;}
+:-ms-input-placeholder      {font-family: 'Open Sans', sans-serif;}
 
 #last5 {
     padding: 25px;
