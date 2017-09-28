@@ -398,14 +398,14 @@ p.min_padding {margin: 2px 0;}
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
 	box-sizing:border-box;
-	width:200px;
+	width:178px;
 	height:36px;
 	line-height:36px;
 	vertical-align:middle;
 	display:block;
-  padding:0 12px;
+  	padding:0 12px;
 	color:#fff;
-	margin:0 0 0 -296px !important
+	margin:0 0 0 -204px !important
 }
 
 #userinfo_username:hover{
