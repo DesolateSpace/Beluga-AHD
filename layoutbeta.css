@@ -30,7 +30,7 @@ body {
 a {
     text-decoration: none;
     border: none;
-    color: #85878f;
+    color: #ffffff;
 }
 
 a:hover {
@@ -213,7 +213,7 @@ p.min_padding {margin: 2px 0;}
 
 .box {
     padding: 10px;
-    font-size: 0.9em;
+    font-size: 1em;
     background-color: #2c2f36!important;
 }
 
@@ -309,7 +309,7 @@ p.min_padding {margin: 2px 0;}
 }
 .last_topic {
 	padding-left: 5px;
-        font-size:12px;
+        font-size:13px;
 }
 /* Header Elements */
 #logo {
